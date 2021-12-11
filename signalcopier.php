@@ -127,7 +127,7 @@ if (isset($_POST['submit'])) {
                 <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-grey-90" href="Home1.php" style="padding: 10px;">Home</a>
                 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-grey-90" href="about.php" style="padding: 10px;">About</a>
                 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-grey-90" href="signalcopier.php" style="padding: 10px;">Services</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="courses.php">Courses</a>
-                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="signalcopier.html">SIGNAL COPIER</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="signalcopier.php">SIGNAL COPIER</a>
                 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="vipgroup.php">VIP GROUP</a>
                 </li></ul>
                 </div>
@@ -140,15 +140,15 @@ if (isset($_POST['submit'])) {
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html" style="padding: 10px;">Home</a>
-                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html" style="padding: 10px;">About</a>
-                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Signal-Copier.html" style="padding: 10px;">Services</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Courses.html">Courses</a>
-                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Signal-Copier.html">SIGNAL COPIER</a>
-                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="VIP-group.html">VIP GROUP</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home1.php" style="padding: 10px;">Home</a>
+                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="about.php" style="padding: 10px;">About</a>
+                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="signalcopier.php" style="padding: 10px;">Services</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="courses.php">Courses</a>
+                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="signalcopier.php">SIGNAL COPIER</a>
+                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="vipgroup.php">VIP GROUP</a>
                   </li></ul>
                   </div>
-                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Brokers.html" style="padding: 10px;">Brokers</a>
-                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Payment.html" style="padding: 10px;">Payment</a>
+                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="brokers.php" style="padding: 10px;">Brokers</a>
+                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="oayment.php" style="padding: 10px;">Payment</a>
                   </li></ul>
               </div>
             </div>
